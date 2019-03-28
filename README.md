@@ -15,4 +15,7 @@ Feel free to adjust the format, add some content or fix grammatical errors.
 Expand influence
 ---
 I18n support is ongoing.  
-If you would like to contribute, you can add translations or just write something down in other languages in separate files.   
+If you would like to contribute, you can add translations or just write something down in other languages in separate files. 
+
+
+
